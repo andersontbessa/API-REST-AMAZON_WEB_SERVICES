@@ -1,0 +1,12 @@
+***URL DE TODO ESTÁGIO API***
+https://g3x5tzjoq3.execute-api.us-east-1.amazonaws.com/api
+
+***URL MÉTODOS - ESTÁGIO***
+
+GET(SCAN): https://g3x5tzjoq3.execute-api.us-east-1.amazonaws.com/api/api-rest-get-all
+
+DELETE(ID): https://g3x5tzjoq3.execute-api.us-east-1.amazonaws.com/api/api-rest-get-delete-id-proxy/{ID}
+
+GET(ID):https://g3x5tzjoq3.execute-api.us-east-1.amazonaws.com/api/api-rest-get-delete-id-proxy/{ID}
+
+POST:https://g3x5tzjoq3.execute-api.us-east-1.amazonaws.com/api/api-rest-post
